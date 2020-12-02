@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=zcericola&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zcericola&layout=compact)
 
 <!--
 **zcericola/zcericola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
